@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">adapters</string>
+    <string-array name="dropdown" >
+        <item>телеграм</item>
+        <item>вк</item>
+        <item>одноклассники</item>
+        <item>твитер</item>
+        <item>ютуб</item>
+        <item>пинтерест</item>
+        <item>тикток</item>
+    </string-array>
+</resources>
